@@ -7,7 +7,7 @@
 				<methods>
 					<include name="loginOrangeDemo" />
 					<include name="loginOrangeDemo1" />
-
+					<include name="loginOrangeDemo3" />
 				</methods>
 
 			</class>
