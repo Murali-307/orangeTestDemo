@@ -6,7 +6,7 @@
 			<class name="com.hyr.tests.orangeDemo">
 				<methods>
 					<include name="loginOrangeDemo" />
-
+					<include name="Murali" />
 				</methods>
 
 			</class>
